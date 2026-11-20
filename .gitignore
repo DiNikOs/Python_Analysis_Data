@@ -1,0 +1,5 @@
+# Системные папки
+.ipynb_checkpoints/
+.vscode/
+.venv
+venv
